@@ -1,0 +1,5 @@
+PythonMLWorkspace(LightWeight)
+.ipynb_checkpoints
+# *.csv
+project/*.pickle
+*.pickle
